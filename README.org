@@ -1,0 +1,6 @@
+* Compilação
+
+Para compilar um dos arquivos .c, utilize o seguinte comando (assumindo que gcc esteja instalado):
+#+begin_src bash
+gcc <arquivo c>
+#+end_src
