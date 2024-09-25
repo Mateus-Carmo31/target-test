@@ -1,0 +1,1 @@
+Como sei que cada interruptor está conectado a uma lâmpada, eu primeiro apagaria todos os interruptores menos um em uma ida, identificando um deles. Depois, eu apagaria todos menos um outro, assim identificando um segundo. Assim, eu saberia que o último interruptor, o qual eu não liguei, liga a lâmpada que sobrou, uma vez que já sei quais ligam as duas outras.
